@@ -1,0 +1,10 @@
+#app/__pychache__/
+#core/__pychache__/
+#db_configuration/__pychache__/
+#middleware/__pychache__/
+#models/__pychache__/
+#routes/__pychache__/
+#schemas/__pychache__/
+__pycache__/
+__pycache__/*
+venv/
